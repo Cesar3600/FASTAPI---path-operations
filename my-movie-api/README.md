@@ -3,12 +3,12 @@
 
 
 ## instalar entorno virtual
-'''sh
+```sh
 python3 -m venv virtual
 source virtual/bin/active
-'''
+```
 
 ## instalar fast api
-'''sh
+```sh
 pip install fastapi
-'''
+```

@@ -2,7 +2,7 @@
 # CURSO DE INTRODUCCION DE FAST API
 
 
-## instalar entorno virtual
+## install virtual enviroment
 ```sh
 python3 -m venv virtual
 ```
@@ -12,7 +12,7 @@ python3 -m venv virtual
 source virtual/bin/active
 ```
 
-## instalar fast api
+## install fast api
 ```sh
 pip install fastapi
 ```

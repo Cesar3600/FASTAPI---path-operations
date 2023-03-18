@@ -5,6 +5,10 @@
 ## instalar entorno virtual
 ```sh
 python3 -m venv virtual
+```
+
+## activate virtual enviroment
+```sh
 source virtual/bin/active
 ```
 
